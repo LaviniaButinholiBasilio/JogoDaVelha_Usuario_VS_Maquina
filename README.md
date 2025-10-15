@@ -5,8 +5,6 @@
 ![Licença](https://img.shields.io/badge/licença-Livre-FFC0CB)
 ![Autoria](https://img.shields.io/badge/feito%20por-Lavínia%20Butinholi%20Basílio-FFC0CB)
 
-[Repositório do projeto](https://github.com/seuusuario/jogo-da-velha)
-
 ---
 
 ## 📖 Descrição
@@ -46,7 +44,6 @@ Projeto criado para fins de estudo em **lógica de programação**, **estruturas
 
 Este projeto é de **uso livre** para fins **educacionais e de aprendizado**.  
 Sinta-se à vontade para estudar, modificar e aprimorar. 💡
-
 
 
 
